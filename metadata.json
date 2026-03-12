@@ -1,0 +1,5 @@
+{
+  "name": "Spectral RF Scanner Pro",
+  "description": "A professional-grade UHF/VHF radio frequency scanner dashboard and spectral intelligence tool.",
+  "requestFramePermissions": ["geolocation"]
+}
